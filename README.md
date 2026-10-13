@@ -1,4 +1,4 @@
-# TokenPriceSync
+.# TokenPriceSync
 
 This project is to retrieve the latest price of different token. 999990000998j1110909
 It will run every 5Minutes.
